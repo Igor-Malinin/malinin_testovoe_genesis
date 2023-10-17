@@ -1,0 +1,1 @@
+(self["webpackChunkmalinin_testovoe_genesis"]=self["webpackChunkmalinin_testovoe_genesis"]||[]).push([[645],{645:function(){}}]);
